@@ -1,0 +1,107 @@
+{
+    "institutions": [
+        {
+            "cod": 1,
+            "state": "AC",
+            "city": "Brasileia",
+            "institution": "Uninter",
+            "courses": [
+                {
+                    "cod": 1,
+                    "name":"Ciencia da Computação",
+                    "description": "Curso que tráz conhecimentos sobre tecnologia.",
+                    "semesters": 8,
+                    "monthly_payment": "600.00",
+                    "mec_avaliation": 4,
+                    "salary_range": "10000.00",
+                    "comments": [
+                        {
+                            "comment": "Curso muito bom. Estou fazendo"
+                        },
+                        {
+                            "comment": "A infraestrutura da faculdade atende ao curso e ajuda muito!"
+                        }
+                    ]
+                },
+                {
+                    "cod": 2,
+                    "name":"Administração",
+                    "description": "Profissional muito procurado no mercado para cuidar do gerenciamento de empresas.",
+                    "semesters": 8,
+                    "monthly_payment": "350.00",
+                    "mec_avaliation": 5,
+                    "salary_range": "6000.00",
+                    "comments": [
+                        {
+                            "comment": "Percebi que foi um curso muito importante para o meu crescimento"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cod": 2,
+            "state": "AC",
+            "city": "Brasileia",
+            "institution": "Estacio",
+            "courses": [
+                {
+                    "cod": 3,
+                    "name":"Medicina Veterinária",
+                    "description": "Para quem ama animais e deseja cuidar deles com muita dedicação",
+                    "semesters": 10,
+                    "monthly_payment": "900.00",
+                    "mec_avaliation": 4,
+                    "salary_range": "7000.00",
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "cod": 3,
+            "state": "AC",
+            "city": "Feijo",
+            "institution": "Faculdades Estacio",
+            "courses": []
+        },
+        {
+            "cod": 4,
+            "state": "AC",
+            "city": "Rio Branco",
+            "institution": "Fac Da Amazonia Ocidental",
+            "courses": [
+                {
+                    "cod": 4,
+                    "name":"Biologia",
+                    "description": "Este curso fala sobre todo o ecossistema de vida da terra",
+                    "semesters": 8,
+                    "monthly_payment": "450.00",
+                    "mec_avaliation": 3,
+                    "salary_range": "3000.00",
+                    "comments": [
+                        {
+                            "comment": "Bem legal pra quem quer trabalhar falando sobre a natureza"
+                        },
+                        {
+                            "comment": "Após, recomendo uma pós graduação em biologia marinha"
+                        }
+                    ]
+                },
+                {
+                    "cod": 5,
+                    "name":"Direito",
+                    "description": "O curso de direito preprara profissionais para cuidar dda aplicação ddas leis vigentes no país",
+                    "semesters": 8,
+                    "monthly_payment": "890.00",
+                    "mec_avaliation": 4,
+                    "salary_range": "9000.00",
+                    "comments": [
+                        {
+                            "comment": "A grade do curso é bem completa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
